@@ -1,6 +1,6 @@
 # Functionalsis
 
-**TODO: Add description**
+For notes and explanations head to [notes.md](https://github.com/myrmlbst/functionalsis/blob/main/notes.md).
 
 ## Installation
 

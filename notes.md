@@ -1,5 +1,10 @@
 # Notes
 
+This file contains some notes I compiled while learning about functional programming and the Elixir language. This repository should NOT be used as studying material if you're also new to functional programming/Elixir, however I did keep my notes as clear and consise as possible for future reference.
+
+## 0. Table of Contents
+1. Compiling Elixir & Running Scripts
+
 ## 1. Compiling Elixir & Running Scripts
 > Refer to functionalsis.ex
 
