@@ -1,5 +1,5 @@
 # Notes
----
+
 ## 0. Table of Contents
 1. Compiling Elixir & Running Scripts
 2. Intro to Hex
