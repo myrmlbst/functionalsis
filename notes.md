@@ -4,6 +4,7 @@ This file contains some notes I compiled while learning about functional program
 
 ## 0. Table of Contents
 1. Compiling Elixir & Running Scripts
+2. Intro to Hex
 
 ## 1. Compiling Elixir & Running Scripts
 > Refer to functionalsis.ex
@@ -54,3 +55,15 @@ defmodule Functionalsis do
 end
 ```
 A Supervisor is a process that supervises other processes. It restarts children processes (which we name inside the [ ]). Strategy one_for_one signifies that if a child process crashes, then only that process will be restarted.
+
+## 2. Introduction to Hex
+Hex is Elixir's package manager. To get started, head to [the packages section on Hex's website](https://hex.pm/packages) and pick one. Its config should be added manually in the dependencies namespace ```deps``` inside the ```mix.exs``` directory.
+```
+# to install the uuid dependency:
+defp deps do
+    [
+      {:uuid, "~> 1.1"}
+    ]
+  end
+```
+Then, run ```mix deps.get``` in the terminal to install all dependencies.
