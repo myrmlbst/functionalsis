@@ -1,6 +1,6 @@
 # Functionalsis
 
-This file contains some notes and code I compiled while learning about functional programming and the Elixir programming language. It is mostly a documentation of my learning progress and and a tracker of what concepts I've studied so far.
+This repository contains some notes and code I compiled while learning about functional programming and the Elixir programming language. It is mostly a documentation of my learning progress and and a tracker of what concepts I've studied so far.
 
 This repository should NOT be used as study material if you're also new to functional programming/Elixir, however I did keep my notes as clear and consise as possible for future reference in case anyone wants to check them out.
 
